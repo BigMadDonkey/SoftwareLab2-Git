@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-
+//一行注释
 namespace Within100MathQuiz
 {
     public interface Op
