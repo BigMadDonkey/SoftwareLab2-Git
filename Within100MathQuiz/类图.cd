@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="运算符接口，下有生成对应种类题目的方法create_Op，生成对应类型题目的generate_data,检测答案是否正确的check。">
+    <Position X="5.357" Y="1.035" Height="1.037" Width="2.4" />
+  </Comment>
+  <Comment CommentText="主体窗口程序，完成计时、响应用户操作等逻辑。">
+    <Position X="2.509" Y="5.693" Height="0.75" Width="1.7" />
+  </Comment>
+  <Class Name="Within100MathQuiz.Quiz">
+    <Position X="5" Y="4.25" Width="1.5" />
+    <Members>
+      <Field Name="Ans1" Hidden="true" />
+      <Field Name="Ans2" Hidden="true" />
+      <Field Name="Ans3" Hidden="true" />
+      <Field Name="Ans4" Hidden="true" />
+      <Field Name="button_pagedown" Hidden="true" />
+      <Field Name="button_pageup" Hidden="true" />
+      <Field Name="ButtonStart" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="Label1" Hidden="true" />
+      <Field Name="LabelEqualSign_1" Hidden="true" />
+      <Field Name="LabelEqualSign_2" Hidden="true" />
+      <Field Name="LabelEqualSign_3" Hidden="true" />
+      <Field Name="LabelEqualSign_4" Hidden="true" />
+      <Field Name="LabelLeftNum1" Hidden="true" />
+      <Field Name="LabelLeftNum2" Hidden="true" />
+      <Field Name="LabelLeftNum3" Hidden="true" />
+      <Field Name="LabelLeftNum4" Hidden="true" />
+      <Field Name="LabelOp1" Hidden="true" />
+      <Field Name="LabelOp2" Hidden="true" />
+      <Field Name="LabelOp3" Hidden="true" />
+      <Field Name="LabelOp4" Hidden="true" />
+      <Field Name="LabelPage" Hidden="true" />
+      <Field Name="LabelRightNum1" Hidden="true" />
+      <Field Name="LabelRightNum2" Hidden="true" />
+      <Field Name="LabelRightNum3" Hidden="true" />
+      <Field Name="LabelRightNum4" Hidden="true" />
+      <Field Name="LabelTimer" Hidden="true" />
+      <Field Name="LabelTimerDescribe" Hidden="true" />
+      <Field Name="pictureBox1" Hidden="true" />
+      <Field Name="timer1" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Within100MathQuiz.Quiz.Status" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Within100MathQuiz.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>YCQAeiAAECIMElABgACwPaASHQIAIAALAAQJQABAAAE=</HashCode>
+      <FileName>Within100MathQuiz.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Within100MathQuiz.Program" Collapsed="true">
+    <Position X="1.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Within100MathQuiz.Multiply" BaseTypeListCollapsed="true">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAEAAAAABAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Op.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Within100MathQuiz.Minus" BaseTypeListCollapsed="true">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAEAAAAABAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Op.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Within100MathQuiz.Divide" BaseTypeListCollapsed="true">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAEAAAAABAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Op.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Within100MathQuiz.Add" BaseTypeListCollapsed="true">
+    <Position X="0.75" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAEAAAAABAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Op.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="8.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="Within100MathQuiz.Op">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAABAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Op.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

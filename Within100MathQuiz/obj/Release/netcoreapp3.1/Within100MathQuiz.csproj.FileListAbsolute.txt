@@ -1,0 +1,16 @@
+E:\VS2019projects\calculator\Within100MathQuiz\Within100MathQuiz\bin\Release\netcoreapp3.1\Within100MathQuiz.exe
+E:\VS2019projects\calculator\Within100MathQuiz\Within100MathQuiz\bin\Release\netcoreapp3.1\Within100MathQuiz.deps.json
+E:\VS2019projects\calculator\Within100MathQuiz\Within100MathQuiz\bin\Release\netcoreapp3.1\Within100MathQuiz.runtimeconfig.json
+E:\VS2019projects\calculator\Within100MathQuiz\Within100MathQuiz\bin\Release\netcoreapp3.1\Within100MathQuiz.runtimeconfig.dev.json
+E:\VS2019projects\calculator\Within100MathQuiz\Within100MathQuiz\bin\Release\netcoreapp3.1\Within100MathQuiz.dll
+E:\VS2019projects\calculator\Within100MathQuiz\Within100MathQuiz\bin\Release\netcoreapp3.1\Within100MathQuiz.pdb
+E:\VS2019projects\calculator\Within100MathQuiz\Within100MathQuiz\obj\Release\netcoreapp3.1\Within100MathQuiz.csprojAssemblyReference.cache
+E:\VS2019projects\calculator\Within100MathQuiz\Within100MathQuiz\obj\Release\netcoreapp3.1\Within100MathQuiz.Properties.Resources.resources
+E:\VS2019projects\calculator\Within100MathQuiz\Within100MathQuiz\obj\Release\netcoreapp3.1\Within100MathQuiz.Quiz.resources
+E:\VS2019projects\calculator\Within100MathQuiz\Within100MathQuiz\obj\Release\netcoreapp3.1\Within100MathQuiz.csproj.GenerateResource.cache
+E:\VS2019projects\calculator\Within100MathQuiz\Within100MathQuiz\obj\Release\netcoreapp3.1\Within100MathQuiz.AssemblyInfoInputs.cache
+E:\VS2019projects\calculator\Within100MathQuiz\Within100MathQuiz\obj\Release\netcoreapp3.1\Within100MathQuiz.AssemblyInfo.cs
+E:\VS2019projects\calculator\Within100MathQuiz\Within100MathQuiz\obj\Release\netcoreapp3.1\Within100MathQuiz.csproj.CoreCompileInputs.cache
+E:\VS2019projects\calculator\Within100MathQuiz\Within100MathQuiz\obj\Release\netcoreapp3.1\Within100MathQuiz.dll
+E:\VS2019projects\calculator\Within100MathQuiz\Within100MathQuiz\obj\Release\netcoreapp3.1\Within100MathQuiz.pdb
+E:\VS2019projects\calculator\Within100MathQuiz\Within100MathQuiz\obj\Release\netcoreapp3.1\Within100MathQuiz.genruntimeconfig.cache
